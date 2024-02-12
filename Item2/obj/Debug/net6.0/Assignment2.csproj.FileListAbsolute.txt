@@ -12,3 +12,17 @@ C:\Users\johnv\source\repos\IPT\Assignment2\obj\Debug\net6.0\refint\Assignment2.
 C:\Users\johnv\source\repos\IPT\Assignment2\obj\Debug\net6.0\Assignment2.pdb
 C:\Users\johnv\source\repos\IPT\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
 C:\Users\johnv\source\repos\IPT\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\bin\Debug\net6.0\Assignment2.exe
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\bin\Debug\net6.0\Assignment2.dll
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.dll
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\johnv\source\repos\IPT\IPT_assignment-1\Item2\obj\Debug\net6.0\ref\Assignment2.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnv\\source\\repos\\IPT\\Assignment2\\Assignment2.csproj",
+      "projectUniqueName": "C:\\Users\\johnv\\source\\repos\\IPT\\IPT_assignment-1\\Item2\\Assignment2.csproj",
       "projectName": "Assignment2",
-      "projectPath": "C:\\Users\\johnv\\source\\repos\\IPT\\Assignment2\\Assignment2.csproj",
+      "projectPath": "C:\\Users\\johnv\\source\\repos\\IPT\\IPT_assignment-1\\Item2\\Assignment2.csproj",
       "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnv\\source\\repos\\IPT\\Assignment2\\obj\\",
+      "outputPath": "C:\\Users\\johnv\\source\\repos\\IPT\\IPT_assignment-1\\Item2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
